@@ -35,5 +35,5 @@ CyberThreat-AI Sentinel is an end-to-end cybersecurity analytics tool designed t
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/cyber_threat_sentinel.git](https://github.com/YOUR_USERNAME/cyber_threat_sentinel.git)
+   git clone https://github.com/eldadsimanian/cyber_threat_sentinel.git
    cd cyber_threat_sentinel
